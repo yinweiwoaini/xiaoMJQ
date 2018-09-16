@@ -1,0 +1,30 @@
+/*
+* @Author: asusaa
+* @Date:   2018-08-13 09:08:02
+* @Last Modified by:   asusaa
+* @Last Modified time: 2018-08-13 17:12:49
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: "苹方";
+}
+.box{
+	/* 动画名称 */
+	animation-name: ;
+	/* 动画持续时间 */
+	animation-duration: 2s;
+	/*  */
+	animation-timing-function: linear;
+	/* 动画开始的时间 */
+	animation-delay: 2s;
+	/* 动画的方向 */
+	animation-direction: alternate;
+	/* 动画执行的次数 : n/无限次 */
+	animation-iteration-count: infinite;
+	/* 动画的停止与开始的时间 */
+	animation-play-state: paused;
+}

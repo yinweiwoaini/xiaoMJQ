@@ -1,0 +1,22 @@
+/*
+* @Author: asusaa
+* @Date:   2018-07-30 14:35:57
+* @Last Modified by:   asusaa
+* @Last Modified time: 2018-08-10 17:00:19
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+main{
+	background: yellow;
+}
+main .container .row{
+	margin-bottom: 0;
+}
+li{
+	height: 50px;
+	background: red;
+	border: 1px solid #fff;
+}

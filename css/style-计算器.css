@@ -1,0 +1,101 @@
+/*
+* @Author: asusaa
+* @Date:   2018-07-30 15:46:08
+* @Last Modified by:   asusaa
+* @Last Modified time: 2018-07-30 17:25:20
+*/
+.box{
+	width: 500px;
+	height: 888px;
+	background:black;
+	/* 外边距 上 右 下 左 */
+	margin: 0 auto 0 auto;
+
+}
+.top{
+	width: 100%;
+	height: 79px;
+	background: #00a5c4;
+}
+.screen{
+	width: 100%;
+	height: 260px;
+	background: #f0f0f0;
+	color: #41b9d0;
+	font-size: 60px;
+	text-align: right;
+}
+.more{
+	width: 100%;
+	height: 46px;
+	background: #dfe3e4;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	line-height: 46px;
+}
+.num-box{
+	width: 100%;
+	height: 503px;
+	background: pink;
+}
+
+.title{
+	float: left;
+	width: 128px;
+	height: 100%;
+	
+	/* 文字大小 */
+	font-size: 26px;
+	/* 文字颜色 */
+	color: #fff;
+	/* 文字水平排列方式: left/center/right */
+	text-align: center;
+	/* 文字垂直排列方式 ：居中--文字所在快的高度 */
+	line-height: 79px;
+
+
+}
+.dot{
+	width: 61px;
+	height: 100%;
+	float: right;
+	background: pink;
+}
+.sbox{
+	width: 100%;
+	height: 100.6px;
+}
+.sbox-1{
+	float:left;
+	width: 123px;
+	height: 100%;
+	background:#fafafa;
+	font-size: 40px;
+	line-height:100.6px;
+	text-align: center; 
+	/* 边框的样式(实线solid/虚线dashed/点状dotted) 大小 颜色 */
+	border: solid 1px #dee2e3;
+
+
+}
+.sbox-2{
+	float:left;
+	width: 123px;	
+	height: 100%;
+	background: #fafafa;
+	font-size: 40px;
+	line-height:100.6px;
+	text-align: center; 
+	border: solid 1px #dee2e3;
+	
+
+}
+.flag{
+	background:#f2f4f4;
+	color:#4e95d7;
+
+}
+.lv{
+	color:green;
+}
